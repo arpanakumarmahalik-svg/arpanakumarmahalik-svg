@@ -28,49 +28,19 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Arpana"
-        self.roles = [
-            "Full-Stack Developer",
-            "AI/ML Engineer"
-        ]
-        self.location = "Odisha, India 🇮🇳"
-        self.education = "Diploma in Information Technology"
+- 👋 Hi, I'm **Arpana**
+- 💼 **Full-Stack Developer** | **AI/ML Engineer**
+- 📍 Odisha, India 🇮🇳
+- 🎓 Diploma in Information Technology
+- 🎨 **Frontend:** React, TypeScript, Tailwind CSS, HTML/CSS
+- ⚙️ **Backend:** Python, FastAPI, PostgreSQL, Supabase
+- 🤖 **AI & Tools:** Gemini API, LangChain, Git, Linux
+- 🚀 Building useful software & AI projects
+- 🌱 Learning AI/ML and full-stack development
+- 👯 Open to open source collaborations & hackathons
+- ⚡ Debugging with coffee ☕
 
-    def tech_stack(self):
-        return {
-            "frontend": [
-                "React",
-                "TypeScript",
-                "Tailwind CSS",
-                "HTML/CSS"
-            ],
-            "backend": [
-                "Python",
-                "FastAPI",
-                "PostgreSQL",
-                "Supabase"
-            ],
-            "ai_and_tools": [
-                "Gemini API",
-                "LangChain",
-                "Git",
-                "Linux"
-            ]
-        }
-
-    def current_focus(self):
-        return [
-            "🚀 Building useful software & AI projects",
-            "🌱 Learning AI/ML and full-stack development",
-            "👯 Open source collaborations & hackathons",
-            "⚡ Debugging with coffee ☕"
-        ]
-```
-
-<br/><br/>
+<br clear="right"/>
 
 ## 🔥 Streak Stats
 
