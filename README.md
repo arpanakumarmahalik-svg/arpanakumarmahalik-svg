@@ -1,12 +1,12 @@
-<!-- HEADER — Dark Red Cyberpunk -->
+<!-- HEADER WAVE -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:4d0000,100:ff0033&height=220&section=header&text=Arpana&fontSize=65&fontColor=ffffff&fontAlignY=35&fontFamily=Audiowide&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Explorer&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Arpana&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Explorer&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
 
 <!-- ANIMATED TYPING -->
 
 <p align="center">
   <a href="https://github.com/arpanakumarmahalik-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Audiowide&weight=600&size=20&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%E2%9A%A1+Building+Scalable+Apps+%26+AI+Systems;%F0%9F%92%80+Turning+Ideas+Into+Working+Projects;%F0%9F%94%B4+Python+%7C+FastAPI+%7C+React+%7C+Supabase" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+Building+Scalable+Apps+%26+AI+Systems;%F0%9F%92%A1+Turning+Ideas+Into+Working+Projects;%E2%9A%A1+Python+%7C+FastAPI+%7C+React+%7C+Supabase" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -14,12 +14,12 @@
 
 <p align="center">
   <a href="https://github.com/arpanakumarmahalik-svg">
-    <img src="https://img.shields.io/badge/GitHub-arpanakumarmahalik--svg-ff0033?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-arpanakumarmahalik--svg-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27" alt="GitHub"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=arpanakumarmahalik-svg&color=ff0033&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=arpanakumarmahalik-svg&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-000000?style=for-the-badge&labelColor=ff0033" alt="Open to internships and collaborations"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27" alt="Open to internships and collaborations"/>
 </p>
 
 ---
@@ -42,10 +42,6 @@
 
 <br clear="right"/>
 
-## 🏆 Certifications
-
-- 🎖️ **IoT and Data Analytics for Smart System Design** — Summer Internship, Department of Computer Science and Engineering, **National Institute of Technology (NIT) Rourkela** (8 June – 7 July 2026)
-
 ## 🔥 Streak Stats
 
 <p align="center">
@@ -67,7 +63,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arpanakumarmahalik-svg/arpanakumarmahalik-svg/output/github-snake-dark.svg" alt="GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/arpanakumarmahalik-svg/arpanakumarmahalik-svg/output/github-snake.svg" alt="GitHub contribution snake"/>
 </p>
 
 ## 📊 GitHub Stats
@@ -91,5 +87,5 @@ Build useful software, explore emerging technologies, contribute to open source,
 ## ⚡ Open to Internships, Collaborations & Research
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0033,50:4d0000,100:000000&height=100&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0d4f8c,100:0a0e27&height=100&section=footer" alt="Footer"/>
 </p>
