@@ -66,14 +66,6 @@
   <img src="https://raw.githubusercontent.com/arpanakumarmahalik-svg/arpanakumarmahalik-svg/output/github-snake.svg" alt="GitHub contribution snake"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arpanakumarmahalik-svg/arpanakumarmahalik-svg/main/github-stats.svg" alt="GitHub Statistics"/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/arpanakumarmahalik-svg/arpanakumarmahalik-svg/main/top-languages.svg" alt="Top Languages"/>
-</p>
-
 ## 🌟 Mission Statement
 
 Build useful software, explore emerging technologies, contribute to open source, and turn ambitious ideas into reliable working systems.
